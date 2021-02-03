@@ -1,6 +1,6 @@
 # Google Camera
 PRODUCT_PACKAGES += \
-    GoogleCamera
+    GoogleCameraUrnyx
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/system/etc/permissions/com.google.android.GoogleCamera.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.google.android.GoogleCamera.xml
+    $(LOCAL_PATH)/system/etc/permissions/com.google.android.GoogleCameraUrnyx.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.google.android.GoogleCameraUrnyx.xml
